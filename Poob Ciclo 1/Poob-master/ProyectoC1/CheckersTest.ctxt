@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=CheckersTest
+comment0.text=\r\n\ The\ test\ class\ CheckersTest.\r\n\r\n\ @author\ \ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=CheckersTest()
+comment1.text=\r\n\ Default\ constructor\ for\ test\ class\ CheckersTest\r\n
+comment2.params=
+comment2.target=void\ lasfichasnosepuedensalirdeltableroDL()
+comment3.params=
+comment3.target=void\ deberiaguardaryrecuperartableroDL()
+comment4.params=
+comment4.target=void\ elSaltoFuncionaDL()
+comment5.params=
+comment5.target=void\ deberiaAdicionarFichasEnElTableroDeConfiguracionBL()
+comment6.params=
+comment6.target=void\ noDeberiaAdicionarFichasEnElTableroDeJuegoBL()
+numComments=7
